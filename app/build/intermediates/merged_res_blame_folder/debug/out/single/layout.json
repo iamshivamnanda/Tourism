@@ -12,12 +12,12 @@
         "source": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\src\\main\\res\\layout\\activity_maps2.xml"
     },
     {
-        "merged": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_hangout_places.xml",
-        "source": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\src\\main\\res\\layout\\activity_hangout_places.xml"
-    },
-    {
         "merged": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_forgot_password.xml",
         "source": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\src\\main\\res\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_hangout_places.xml",
+        "source": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\src\\main\\res\\layout\\activity_hangout_places.xml"
     },
     {
         "merged": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_fun_fact.xml",

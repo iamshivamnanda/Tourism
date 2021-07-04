@@ -28,6 +28,7 @@ public class StateScreeen extends AppCompatActivity {
         setContentView(R.layout.activity_state_screeen);
         simpleGrid = (GridView) findViewById(R.id.simpleGridView);
         drawerLayout = findViewById(R.id.my_drawer_layout);
+
         actionBarDrawerToggle = new ActionBarDrawerToggle(this, drawerLayout, R.string.nav_open, R.string.nav_close);
 
         // pass the Open and Close toggle for the drawer layout listener

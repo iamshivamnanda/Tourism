@@ -2237,7 +2237,6 @@ id multiply
 id my_drawer_layout
 id nav_account
 id nav_built
-id nav_logout
 id nav_settings
 id navigation_header_container
 id never
