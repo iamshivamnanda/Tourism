@@ -31,7 +31,12 @@ public class HangoutPlaces extends AppCompatActivity {
         Log.i("Monuments",String.valueOf(cityid));
         CitiesData citiesData = new CitiesData();
         CityItem cityItem =  citiesData.getCity(cityid);
+        if(title.equals("Restaurents")){
+            hangoutitems = cityItem.restuarentsItemArrayList;
+        }else {
         hangoutitems = cityItem.hangoutItemArrayList;
+        }
+
 
         ListView listView = (ListView) findViewById(R.id.listview);
 

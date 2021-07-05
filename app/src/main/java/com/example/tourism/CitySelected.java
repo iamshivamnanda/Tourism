@@ -64,7 +64,7 @@ public class CitySelected extends AppCompatActivity {
         Intent intent = new Intent(getApplicationContext(),MapsActivity.class);
         intent.putExtra("latitude",city.cityLatitude);
         intent.putExtra("longitude",city.cityLongitude);
-        intent.putExtra("name","mylocation");
+        intent.putExtra("name",city.cityname);
         startActivity(intent);
     }
     @Override
@@ -78,10 +78,11 @@ public class CitySelected extends AppCompatActivity {
         weatherTextView = (TextView) findViewById(R.id.weatherM);
         citydescriptionTextView = (TextView) findViewById(R.id.cityinfo);
         Intent intent = getIntent();
-        selectedImage.setBackgroundResource(intent.getIntExtra("image", 0));
+//        selectedImage.setBackgroundResource(intent.getIntExtra("image", 0));
         CitiesData citydata = new CitiesData();
         city = citydata.getCity(intent.getIntExtra("image",0));
         citynameTextView.setText(city.cityname);
+        selectedImage.setBackgroundResource(city.cityimage);
 //        getSupportActionBar().setTitle(city.cityname);
         citydescriptionTextView.setText(city.description);
         setweather(city.cityname);

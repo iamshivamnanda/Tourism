@@ -120,6 +120,10 @@
         "source": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\src\\main\\res\\drawable\\linkedin.png"
     },
     {
+        "merged": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chowpatty.png.flat",
+        "source": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\src\\main\\res\\drawable\\chowpatty.png"
+    },
+    {
         "merged": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_funacts.png.flat",
         "source": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\src\\main\\res\\drawable-v24\\funacts.png"
     },
@@ -142,6 +146,14 @@
     {
         "merged": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shadow.xml.flat",
         "source": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\src\\main\\res\\drawable\\shadow.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable_marinedrive.png.flat",
+        "source": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\src\\main\\res\\drawable\\marinedrive.png"
+    },
+    {
+        "merged": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mumbai4.png.flat",
+        "source": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\src\\main\\res\\drawable\\mumbai4.png"
     },
     {
         "merged": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable_instagram.png.flat",
@@ -180,8 +192,16 @@
         "source": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\src\\main\\res\\layout\\activity_state_screeen.xml"
     },
     {
+        "merged": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smash.png.flat",
+        "source": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\src\\main\\res\\drawable\\smash.png"
+    },
+    {
         "merged": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mumbai.png.flat",
         "source": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\src\\main\\res\\drawable\\mumbai.png"
+    },
+    {
+        "merged": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mumbai2.png.flat",
+        "source": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\src\\main\\res\\drawable\\mumbai2.png"
     },
     {
         "merged": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable_design.xml.flat",
@@ -228,12 +248,20 @@
         "source": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\src\\main\\res\\drawable\\facebook.png"
     },
     {
+        "merged": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mumbai3.png.flat",
+        "source": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\src\\main\\res\\drawable\\mumbai3.png"
+    },
+    {
         "merged": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_monument.png.flat",
         "source": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\src\\main\\res\\drawable-v24\\monument.png"
     },
     {
         "merged": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_weather.png.flat",
         "source": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\src\\main\\res\\drawable-v24\\weather.png"
+    },
+    {
+        "merged": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable_snowworld.png.flat",
+        "source": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\src\\main\\res\\drawable\\snowworld.png"
     },
     {
         "merged": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient.xml.flat",
@@ -248,8 +276,16 @@
         "source": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\src\\main\\res\\layout\\activity_hangout_places.xml"
     },
     {
+        "merged": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable_juhu.png.flat",
+        "source": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\src\\main\\res\\drawable\\juhu.png"
+    },
+    {
         "merged": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edittext_background.xml.flat",
         "source": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\src\\main\\res\\drawable\\edittext_background.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mumbai5.png.flat",
+        "source": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\src\\main\\res\\drawable\\mumbai5.png"
     },
     {
         "merged": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\build\\intermediates\\res\\merged\\debug\\anim_rotate.xml.flat",
@@ -258,6 +294,10 @@
     {
         "merged": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jaipur.png.flat",
         "source": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\src\\main\\res\\drawable\\jaipur.png"
+    },
+    {
+        "merged": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sgnp.png.flat",
+        "source": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\src\\main\\res\\drawable\\sgnp.png"
     },
     {
         "merged": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",

@@ -50,7 +50,7 @@ public class HangoutAdapter extends BaseAdapter {
         TextView placeDescription = (TextView) view.findViewById(R.id.placedescription);
         placeimage.setImageResource(item.placeimage);
         placename.setText(item.placeName);
-        placeDescription.setText(item.placeDescription);
+        placeDescription.setText(item.placeCategory);
         Context Context = this.context;
 
         Button Button = (Button) view.findViewById(R.id.locateonmap) ;
@@ -61,7 +61,7 @@ public class HangoutAdapter extends BaseAdapter {
                 intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                     intent.putExtra("latitude",item.placeLatitude);
                     intent.putExtra("longitude",item.placeLongitude);
-                    intent.putExtra("name","mylocation");
+                    intent.putExtra("name",item.placeName);
                     Context.startActivity(intent);
             }
         });

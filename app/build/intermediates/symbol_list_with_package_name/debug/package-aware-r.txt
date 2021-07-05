@@ -1759,6 +1759,7 @@ drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
 drawable button_background
 drawable chennai
+drawable chowpatty
 drawable cloud1
 drawable cloud2
 drawable com_facebook_auth_dialog_background
@@ -1831,11 +1832,13 @@ drawable ic_mtrl_chip_close_circle
 drawable india
 drawable instagram
 drawable jaipur
+drawable juhu
 drawable kolkata
 drawable linkedin
 drawable logoextract
 drawable map
 drawable mapshadow
+drawable marinedrive
 drawable material_cursor_drawable
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp
@@ -1866,6 +1869,10 @@ drawable mtrl_popupmenu_background
 drawable mtrl_popupmenu_background_dark
 drawable mtrl_tabs_default_indicator
 drawable mumbai
+drawable mumbai2
+drawable mumbai3
+drawable mumbai4
+drawable mumbai5
 drawable nagpur
 drawable navigation_empty_icon
 drawable notification_action_background
@@ -1881,8 +1888,11 @@ drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable restaurant
+drawable sgnp
 drawable shadow
 drawable shopping
+drawable smash
+drawable snowworld
 drawable style
 drawable surat
 drawable test_custom_background
