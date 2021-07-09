@@ -33,7 +33,13 @@ public class HangoutPlaces extends AppCompatActivity {
         CityItem cityItem =  citiesData.getCity(cityid);
         if(title.equals("Restaurents")){
             hangoutitems = cityItem.restuarentsItemArrayList;
-        }else {
+        }
+        else if(title.equals("Shopping")){
+            hangoutitems = cityItem.shoppingItemArrayList;
+        }else if(title.equals("Monuments")){
+            hangoutitems = cityItem.monumentsItemArrayList;
+        }
+        else {
         hangoutitems = cityItem.hangoutItemArrayList;
         }
 
